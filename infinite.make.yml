@@ -1,0 +1,27 @@
+core: "8.x"
+api: 2
+
+# Drupal core
+projects:
+  thunder:
+    type: "core"
+    version: "8.x-1.x-dev"
+
+# modules
+  infinite_module:
+    type: "module"
+    download:
+      url: "https://github.com/BurdaMagazinOrg/infinite-module.git"
+      revision: "7a395fb"
+
+  views_load_more:
+    type: "module"
+    download:
+      url: "https://git.drupal.org/project/views_load_more.git"
+      revision: "178d32195253207cc74097296e25079a23f0b2e5"
+
+  infinite_theme:
+    type: "theme"
+    download:
+      url: "https://github.com/BurdaMagazinOrg/infinite-theme.git"
+      revision: "92953b735ccced56ede27af2bb3a22fa1e04c396"

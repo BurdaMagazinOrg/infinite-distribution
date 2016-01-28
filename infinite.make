@@ -1,0 +1,13 @@
+core = 8.x
+api = 2
+projects[thunder][type] = core
+projects[thunder][version] = 8.x-1.x-dev
+projects[infinite_module][type] = module
+projects[infinite_module][download][url] = https://github.com/BurdaMagazinOrg/infinite-module.git
+projects[infinite_module][download][revision] = 7a395fb
+projects[views_load_more][type] = module
+projects[views_load_more][download][url] = https://git.drupal.org/project/views_load_more.git
+projects[views_load_more][download][revision] = 178d32195253207cc74097296e25079a23f0b2e5
+projects[infinite_theme][type] = theme
+projects[infinite_theme][download][url] = https://github.com/BurdaMagazinOrg/infinite-theme.git
+projects[infinite_theme][download][revision] = 92953b735ccced56ede27af2bb3a22fa1e04c396
