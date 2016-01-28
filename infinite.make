@@ -1,7 +1,5 @@
 core = 8.x
 api = 2
-projects[thunder][type] = core
-projects[thunder][version] = 8.x-1.x-dev
 projects[infinite_module][type] = module
 projects[infinite_module][download][url] = https://github.com/BurdaMagazinOrg/infinite-module.git
 projects[infinite_module][download][revision] = 7a395fb

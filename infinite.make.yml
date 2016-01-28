@@ -3,10 +3,6 @@ api: 2
 
 # Drupal core
 projects:
-  thunder:
-    type: "core"
-    version: "8.x-1.x-dev"
-
 # modules
   infinite_module:
     type: "module"
