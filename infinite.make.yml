@@ -8,7 +8,7 @@ projects:
     type: "module"
     download:
       url: "https://github.com/BurdaMagazinOrg/infinite-module.git"
-      revision: "7a395fb"
+      revision: "e30242492d24fbe700412f20eaf1668c9c802992"
 
   views_load_more:
     type: "module"
